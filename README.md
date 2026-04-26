@@ -1,6 +1,6 @@
 # iris_dataset-RegularizationExperiment
 
-Referenced by mikexcohen deep understanding deep learning course
+!!! Referenced by mikexcohen's udemy course of deep understanding deep learning !!!
 
 # Yapay Sinir Ağlarında L1, L2 Regülarizasyon ve Dropout Etkisini İnceleme
 
