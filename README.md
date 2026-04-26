@@ -1,5 +1,7 @@
 # iris_dataset-RegularizationExperiment
 
+Referenced by mikexcohen deep understanding deep learning course
+
 # Yapay Sinir Ağlarında L1, L2 Regülarizasyon ve Dropout Etkisini İnceleme
 
 Bu not defteri, PyTorch kullanarak Iris veri seti üzerinde eğitilen bir Yapay Sinir Ağı'nda (YSA) L1 ve L2 regülarizasyonunun yanı sıra Dropout'un model performansı üzerindeki etkisini incelemektedir.
